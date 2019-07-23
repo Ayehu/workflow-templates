@@ -3,5 +3,5 @@ The Ayehu NG platform includes a Workflow Designer - you can design and execute 
 
 We will be releasing more and more workflows for interesting scenarios, so stay tuned. If you are working on an interesting workflow of your own, feel free to send us a Pull Request and let's build it together.
 
-For information on importing and exporting workflows, please refer to the Ayehu NG User Guide (https://support.ayehu.com/hc/en-us/articles/360010539853-Ayehu-NG-User-Guide)
+For information on importing and exporting workflows, please refer to the [Ayehu NG User Guide](https://support.ayehu.com/hc/en-us/articles/360010539853-Ayehu-NG-User-Guide)
 
